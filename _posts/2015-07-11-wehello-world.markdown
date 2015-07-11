@@ -6,8 +6,7 @@ categories: jekyll jenkins github
 ---
 So... I built a blog. This is it. Enjoy.
 
-If you want to see the source, you can find it at the usual [Github]: 
-https://github.com/bitbyt3r/bitbyt3r-website
+If you want to see the source, you can find it at the usual [Github](https://github.com/bitbyt3r/bitbyt3r-website)
 
 As you can see there, this site is using Jekyll. I added a webhook 
 that allows me to update this blog by pushing to Github, which then 

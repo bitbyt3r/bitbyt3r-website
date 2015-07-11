@@ -4,8 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+My name is Mark Murnane. I usually go by Bitbyt3r. I am a Computer Engineering major at the University of Maryland, Baltimore County. I have worked 
+several places as a Linux system administrator, and would be happy to talk your ears off about it. More recently, I am interning at Direct Dimensions 
+Inc, an engineering firm specializing in three dimensional data acquisition and processing. I also do a fair amount of work running Linux systems for 
+MAGFest. 
