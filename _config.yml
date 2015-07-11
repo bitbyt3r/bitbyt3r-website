@@ -1,14 +1,13 @@
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: The No-Pass Filter
+email: bitbyt3r@bitbyt3r.net
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Discussion about Electronics, Linux, and Life. Not necessarily in that 
+  order.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://bitbyt3r.net" # the base hostname & protocol for your site
+twitter_username: bitbyt3r
+github_username:  bitbyt3r
 
 # Build settings
 markdown: kramdown
